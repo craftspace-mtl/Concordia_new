@@ -1,4 +1,4 @@
-package ca.concordia.java.Class_03;
+package ca.concordia.java.Class_04;
 
 import java.text.NumberFormat;
 import java.util.Scanner;
